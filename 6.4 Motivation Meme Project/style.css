@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+}
+
+.container { 
+  color: white;
+  img {
+  border: 5px solid white;
+  }
+  width: 50%;
+  margin-left: 25%;
+}
+
+
